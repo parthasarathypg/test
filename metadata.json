@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu: Climate-Resilient Agricultural Intelligence",
+  "description": "Empowering small and marginal farmers across India with satellite vegetation analytics, soil health optimization, hyperlocal climate forecasting, and cross-state climate resilience exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
